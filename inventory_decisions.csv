@@ -1,0 +1,5 @@
+product,current_stock,avg_daily_demand,days_left,status,recommended_order_qty
+Item A,40,5.91,6.76,REORDER SOON,41
+Item B,25,5.85,4.27,URGENT REORDER,40
+Item C,50,3.03,16.48,OK,21
+Item D,15,1.87,8.03,REORDER SOON,13
